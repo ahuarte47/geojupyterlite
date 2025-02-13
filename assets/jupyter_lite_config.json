@@ -1,0 +1,7 @@
+{
+  "PipliteAddon": {
+    "piplite_urls": [
+      "wheels/duckdb-1.2.0-cp311-cp311-emscripten_3_1_46_wasm32.whl"
+    ]
+  }
+}
