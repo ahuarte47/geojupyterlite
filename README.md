@@ -2,7 +2,7 @@
 
 🚧 WORK IN PROGRESS 🚧
 
-A JupyterLite distribution for performing Data Science and analyzing Geospatial data through Notebooks.
+A JupyterLite distribution for Data Science and Geospatial data analysis through Notebooks.
 
 You have at your disposal a selection of highly popular Python packages for your experiments, including `Numpy`, `Scipy`, `scikit-learn`, `(Geo)Pandas`, `shapely`,`pyproj`, `rasterio`, `fiona` and `DuckDB`. These powerful tools are ready for immediate use, enabling you to efficiently perform a wide range of data analysis, machine learning and Geoprocessing of datasets.
 
